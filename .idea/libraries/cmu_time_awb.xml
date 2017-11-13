@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="cmu_time_awb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/cmu_time_awb.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/cmu_us_kal.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/en_us.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/freetts-jsapi10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/freetts.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/jsr113.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/mbrola.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/org.jvoicexml.jsapi2.freetts.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/org.jvoicexml.jsapi2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/org.jvoicexml.jsapi2.mac.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/org.jvoicexml.jsapi2.sapi.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/org.jvoicexml.jsapi2.sphinx4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Jar Files/sphinx4-core-5prealpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
