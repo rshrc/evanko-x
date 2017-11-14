@@ -1,27 +1,27 @@
-.root
-{
-    -fx-background-color: #383838;
-    -fx-font-size: 11pt;
+.root {
+    -fx-background-color: linear-gradient(lightgray, gray);
+    -fx-border-color: white;
+    -fx-border-radius: 20;
+    -fx-padding: 10 10 10 10;
+    -fx-background-radius: 20;
 }
 
-.label
-{
-    -fx-text-fill: #eBeBeB;
-}
-.button{
-    -fx-background-color: linear-gradient(#dc9656,#ab4642);
-    -fx-text-fill: azure;
-    -fx-background-radius: 14;
+.label {
+    -fx-fill: linear-gradient(orange, orangered);
 }
 
-.button-blue
-{
-    -fx-background-color: linear-gradient(purple,navajowhite);
+.button {
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-background-color: linear-gradient(orange, orangered);
+}
+
+.button-blue {
+    -fx-background-color: linear-gradient(purple, navajowhite);
     -fx-text-fill: ghostwhite;
     -fx-background-radius: 10;
 }
 
-.bold-label
-{
+.bold-label {
     -fx-font-weight: bold;
 }
