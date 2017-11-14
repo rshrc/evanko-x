@@ -31,17 +31,9 @@ public class BaseFramework
     {
         SpeechModule sm = new SpeechModule(); // Creates an object of the SpeechModule Class
         // Question and Answer Design
-        if(question.equals("Hello"));
-        {
-            answer = "Hello";
-            sm.speak(answer);
+        CreateResponses createResponses = new CreateResponses();
+        answer = createResponses.getResponse(question);
 
-        }
-        if(question.equalsIgnoreCase("I love dogs"))
-        {
-            answer = "I love dogs too!";
-            sm.speak(answer);
-        }
         return answer;
     }
 }
