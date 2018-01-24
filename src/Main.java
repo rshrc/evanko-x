@@ -22,7 +22,7 @@ class Mandy
     {
         Stage window = new Stage();
         SpeechModule sm = new SpeechModule();
-        window.setTitle("Ask Mandreck (me)");
+        window.setTitle("Ask Mandy (me)");
 
         GridPane grid = new GridPane();
         grid.setPadding(new Insets(10, 10, 10, 10));
