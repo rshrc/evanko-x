@@ -67,8 +67,9 @@ class Mandy
 
 public class Main extends Application
 {
-    String user = "Rishi";
-    String pw = "root";
+    // SQL Database not connected, no actual database login. Only predefined.
+    String user = "username";   // Username goes here
+    String pw = "password";     // Password goes here
     String checkUser, checkPw;
     public static void main(String args[])
     {
